@@ -1,0 +1,281 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /MediaBox [0 0 612 792]
+  /Contents 4 0 R
+  /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >>
+>>
+endobj
+
+4 0 obj
+<< /Length 3200 >>
+stream
+BT
+/F1 28 Tf
+50 740 Td
+(Vesper Nox) Tj
+ET
+
+BT
+/F2 11 Tf
+50 715 Td
+(Creative Technologist & Interface Architect) Tj
+ET
+
+BT
+/F2 9 Tf
+50 700 Td
+(vesper@nox.design  |  San Francisco, CA  |  github.com/vespernox) Tj
+ET
+
+BT
+/F1 10 Tf
+50 675 Td
+(-------------------------------------------------------------------) Tj
+ET
+
+BT
+/F1 13 Tf
+50 655 Td
+(EXPERIENCE) Tj
+ET
+
+BT
+/F1 11 Tf
+50 635 Td
+(Senior Interface Architect   Synthwave Labs   2023 - Present) Tj
+ET
+
+BT
+/F2 9 Tf
+50 620 Td
+(- Lead the Design Systems and Frontend Experience team \(7 engineers, 3 designers\)) Tj
+ET
+
+BT
+/F2 9 Tf
+50 608 Td
+(- Architected the component library powering three enterprise SaaS products) Tj
+ET
+
+BT
+/F2 9 Tf
+50 596 Td
+(- Reduced first-paint time by 40% through render-pipeline refactoring) Tj
+ET
+
+BT
+/F2 9 Tf
+50 584 Td
+(- Established accessibility review process eliminating WCAG AA violations) Tj
+ET
+
+BT
+/F1 11 Tf
+50 565 Td
+(Lead Creative Developer   Hollow Moon Studio   2020 - 2023) Tj
+ET
+
+BT
+/F2 9 Tf
+50 550 Td
+(- Built interactive web experiences for Fortune 500 and arts organizations) Tj
+ET
+
+BT
+/F2 9 Tf
+50 538 Td
+(- Developed Chromashift and the Hollow Design System) Tj
+ET
+
+BT
+/F2 9 Tf
+50 526 Td
+(- Mentored 4 junior developers from bootcamp to mid-level in 18 months) Tj
+ET
+
+BT
+/F1 11 Tf
+50 507 Td
+(Frontend Engineer   Verdant \(formerly Leafchat\)   2018 - 2020) Tj
+ET
+
+BT
+/F2 9 Tf
+50 492 Td
+(- Sole frontend engineer for a social platform \(acquired\)) Tj
+ET
+
+BT
+/F2 9 Tf
+50 480 Td
+(- Built entire web client from scratch; survived two pivots and one rebrand) Tj
+ET
+
+BT
+/F1 10 Tf
+50 460 Td
+(-------------------------------------------------------------------) Tj
+ET
+
+BT
+/F1 13 Tf
+50 440 Td
+(PROJECTS) Tj
+ET
+
+BT
+/F1 10 Tf
+50 422 Td
+(Chromashift  -  Real-time collaborative color-grading tool  -  2024) Tj
+ET
+
+BT
+/F2 9 Tf
+50 410 Td
+(React, WebGL, WebSockets, Rust  |  40,000 monthly active users) Tj
+ET
+
+BT
+/F1 10 Tf
+50 394 Td
+(Papertrail OS  -  Desktop knowledge management  -  2023) Tj
+ET
+
+BT
+/F2 9 Tf
+50 382 Td
+(Electron, TypeScript, SQLite  |  12,000 downloads  |  4.8 stars) Tj
+ET
+
+BT
+/F1 10 Tf
+50 366 Td
+(Warden  -  Privacy browser extension  -  2022) Tj
+ET
+
+BT
+/F2 9 Tf
+50 354 Td
+(Web Extensions, React, D3.js  |  100,000 active users  |  EFF reviewed) Tj
+ET
+
+BT
+/F1 10 Tf
+50 338 Td
+(Signal/Loss  -  Interactive audio-visual web art  -  2023) Tj
+ET
+
+BT
+/F2 9 Tf
+50 326 Td
+(Web Audio API, Canvas, GLSL  |  Digital Futures exhibition commission) Tj
+ET
+
+BT
+/F1 10 Tf
+50 306 Td
+(-------------------------------------------------------------------) Tj
+ET
+
+BT
+/F1 13 Tf
+50 286 Td
+(SKILLS) Tj
+ET
+
+BT
+/F2 9 Tf
+50 270 Td
+(TypeScript, React, Next.js, CSS, WebGL/GLSL, Rust, Python) Tj
+ET
+
+BT
+/F2 9 Tf
+50 258 Td
+(Motion/Framer, D3.js, Web Audio API, Electron, Storybook) Tj
+ET
+
+BT
+/F2 9 Tf
+50 246 Td
+(Figma, Node.js, PostgreSQL, Docker, Git) Tj
+ET
+
+BT
+/F1 10 Tf
+50 226 Td
+(-------------------------------------------------------------------) Tj
+ET
+
+BT
+/F1 13 Tf
+50 206 Td
+(EDUCATION) Tj
+ET
+
+BT
+/F1 10 Tf
+50 188 Td
+(B.F.A. Interaction Design  -  California College of the Arts  -  2018) Tj
+ET
+
+BT
+/F2 9 Tf
+50 176 Td
+(Thesis: Hostile Architectures: When UX Becomes the Product) Tj
+ET
+
+BT
+/F1 10 Tf
+50 156 Td
+(-------------------------------------------------------------------) Tj
+ET
+
+BT
+/F2 8 Tf
+50 136 Td
+(References available upon request. This CV was generated with bureaucratic effort.) Tj
+ET
+
+BT
+/F2 8 Tf
+50 122 Td
+(CTRL_ALT_CHAOS Portfolio System  |  Chaos Level: Certified Ragebait) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000003526 00000 n 
+0000003610 00000 n 
+
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3690
+%%EOF
